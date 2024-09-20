@@ -1,9 +1,9 @@
 images:
-  roundel: https://raw.githubusercontent.com/cs-soc-tudublin/IdentityFlip/master/assets/logos/cspp.svg
-  embed: https://raw.githubusercontent.com/cs-soc-tudublin/IdentityFlip/master/assets/logos/roundel.png
+  roundel: https://raw.githubusercontent.com/tudublinesports/EsportsStyleKit/master/assets/logos/cspp.svg
+  embed: https://raw.githubusercontent.com/tudublinesports/IdentityFlip/master/assets/logos/roundel.png
 society:
-  name: CS++
-  tagline: TU Dublin's Computer Science Society.
+  name: Esports Soc
+  tagline: TU Dublin's Esports Society.
 navigation:
   global:
     - text: Blog
@@ -13,96 +13,150 @@ navigation:
       tag: events
     - text: Admin Blog
       tag: admins
-    - text: Tutorials
-      tag: tutorial
-    - text: Conferences
-      tag: conferences
     - text: Newsletters
       tag: newsletter
   buttons:
     primary:
       text: Sign Up!
-      link: https://join.cspp.ie
+      link: https://join.tudublinesports.ie
     secondary:
       text: Discord
-      link: https://discord.cspp.ie
+      link: https://discord.tudublinesports.ie/
 drawer: navigation
 home:
   hero:
     title:
-      secondary: TU Dublin's Computer Science Society.
+      secondary: TU Dublin's Esports Society.
       primary: Join us today!
-    body: CS++ was restarted in 2022 with a goal to aid its members - today, we help our members with their coursework, and give them access to invaluable experiences and skills!
+    body: Esports Soc was founded in 2019 with a goal to connect competitive students with others and compete against other colleges.
     buttons:
       primary:
         text: Sign Up!
-        link: https://join.cspp.ie
+        link: https://join.tudublinesports.ie
         aria: Link to the Clubs and Socs portal to join the society!
       secondary:
-        link: https://instagram.com/tudublincsplusplus
+        link: https://instagram.com/tudublinesports
         aria: Link to our Instagram page!
       tertiary:
-        link: https://discord.cspp.ie
+        link: https://discord.tudublinesports.ie/
         aria: Link to our Discord server!
   cta:
     title: Don't Miss Out!
-    body: CS++ runs events of all kinds, provides discounted tickets to conferences, and helps you academically.
+    body: Esports Soc runs events of all kinds, helps to find teams for tournaments and expand your teamwork and skills within your games of choice while making (hopefully!) lifelong friends.
     button:
       text: Sign Up Today!
-      link: https://join.cspp.ie/
+      link: https://join.tudublinesports.ie
   committee:
-    - name: Faith Omotayo
-      position: 🪑 Chair
-      username: chillingwithmani
-      image: /assets/img/committee/faith.webp
     - name: David Corcoran
-      position: 🪑 Vice-Chair
+      position: 🪑 Chair
       username: Arcane
       image: /assets/img/committee/david.webp
-    - name: Bohdan Yeriemienko
+    - name: Polina
+      position: 🪑 Vice-Chair
+      username: /!polinchik
+      image: /assets/img/
+    - name: Ridwan
       position: 💌 Secretary
-      username: bog
-      image: /assets/img/committee/bohdan.webp
-    - name: Adrian Mae
+      username: MongolianYeti
+      image: /assets/img/
+    - name: Oludemilade
       position: 💸 Treasurer
-      username: thatikeashark
-      image: /assets/img/committee/adrian.webp
-    - name: Nikita Aksenov
+      username: Demii
+      image: /assets/img/committee/
+    - name: 
       position: 📢 PRO
-      image: /assets/img/committee/nikita.webp
-      username: nawinds
-    - name: Juliet Mullarney
+      username: 
+      image: /assets/img/committee/
+    - name: Juliet 
       position: 👩‍⚕️ HSO
       username: juliet
-      image: /assets/img/committee/juliet.webp
+      image: /assets/img/committee/
+    - name: Henry
+      position: 🗺️ Bolton Rep
+      username: 
+      image: /assets/img/committee/
+    - name: Ryan McCarthy
+      position: 🗺️ Blanch Rep
+      username: McCar
+      image: /assets/img/committee/
+    - name: 
+      position: ♟️ Chess Rep
+      username: BigCheeseDerv
+      image: /assets/img/committee/
     - name: Ana
-      position: 💻 Tech Events Officer
+      position: 💻 Melty & Osu! Rep
       username: ana_rchy
       image: /assets/img/committee/ana.gif
-    - name: Ethan Crosbie
-      position: 🥳 Social Events Officer
-      username: ethan
-      image: /assets/img/committee/ethan.webp
-    - name: Derv O'Flynn
-      position: 🚀 SysAdmin
-      username: BigCheeseDerv
-      image: /assets/img/committee/derv.webp
-    - name: MJ
-      position: 🚀 SysAdmin
-      username: DroolingFeralHog
-      image: /assets/img/committee/mj.webp
-    - name: Jacey
-      position: 🚀 SysAdmin
-      username: sokomuso
-      image: /assets/img/committee/jacey.webp
-    - name: Ruán Murgatroyd
-      position: 🚀 SysAdmin
-      username: rjm
-      image: /assets/img/committee/ruan.webp
+    - name: Michaɫ Kos Sliwinski
+      position: 🎮 LoL Rep
+      username: Mitcha
+      image: /assets/img/committee/
+    - name: Brevin Monks
+      position: 🚘 Mario Kart Rep
+      username: Brevinthehouse
+      image: /assets/img/committee/
+    - name: Shane
+      position: 🪖 CS2 Rep
+      username: Dusty
+      image: /assets/img/committee/
+    - name: 
+      position: ⚽ Rocket League Rep
+      username: 
+      image: /assets/img/committee/
+    - name: 
+      position: 💣 Valorant Rep
+      username: Ruuzi
+      image: /assets/img/committee/
+    - name: Luna Henry
+      position: 🎨 Splatoon Rep
+      username: Wassuppeas
+      image: /assets/img/committee/
+    - name: 
+      position: 👼 Overwatch & Tallaght Rep
+      username: Nacho
+      image: /assets/img/committee/
+    - name:
+      position: 🧱 R6 Siege Rep
+      username: Skye
+      image: /assets/img/committee/
+    - name: Sam Carolan
+      position: ♟️ TFT Rep
+      username: Ubh
+      image: /assets/img/committee/
+    
+    - name: Calvin
+      position: 🍄 Smash Rep
+      username: Foggy
+      image: /assets/img/committee/
+    - name: Nikita Sosnars
+      position: 🏎️ Forza & Halo Rep
+      username: insidesaturn8
+      image: /assets/img/committee/
+    - name:
+      position: GCM
+      username: King
+      image: /assets/img/committee/
+    - name:
+      position: GCM
+      username:
+      image: /assets/img/committee/
+    - name:
+      position: GCM
+      username: 
+      image: /assets/img/committee/
+    - name:
+      position: GCM
+      username:
+      image: /assets/img/committee/
+    - name:
+      position: 
+      username: 
+      image: /assets/img/committee/
+    - name:
+      position:
+      username:
+      image: /assets/img/committee/
   sponsors:
-    - name: Rewriting the Code
-      image: /assets/img/sponsors/rtc.webp
-      link: https://rewritingthecode.org/
-
 footer:
-  credit: Powered by Redbrick's Atlas System
+  - credit: Powered by Redbrick's Atlas System
+  - credit: (Special thanks to CS++)

@@ -1,8 +1,9 @@
 {
-  "name": "@cs-soc-tudublin/plume",
-  "author": "Ruán Murgatroyd",
+  "name": "@tudublinesports/flare",
+  "author": "Andrew Malcolm O'Neill",
   "version": "0.1.1",
-  "packageManag0r": "yarn@4.1.0",
+  "packageManag0r": "yarn@4.5.0",
+  "license": "MIT",
   "engines": {
     "node": "^18.17 || ^20"
   },
@@ -32,7 +33,7 @@
   "devDependencies": {
     "@11ty/eleventy": "^2.0.1",
     "@11ty/eleventy-navigation": "^0.3.5",
-    "@cspp/identityflip": "https://github.com/cs-soc-tudublin/identityflip",
+    "@tudesports/identityflip": "https://github.com/tudublinesports/",
     "@types/markdown-it": "^13.0.7",
     "@xpd/tailwind-3dtransforms": "^1.0.3",
     "autoprefixer": "^10.4.17",
