@@ -5,9 +5,6 @@ society:
   name: Esports Soc
   tagline: TU Dublin's Esports Society.
 navigation:
-  global:
-    - text: Blog
-      link: /blog/posts/using-sonarqube.html
   blog:
     - text: Events
       tag: events

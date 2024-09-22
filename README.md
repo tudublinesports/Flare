@@ -1,5 +1,4 @@
 # TUDublin Esports' Website
-
 Flare is Esports' website, written in 11ty.
 It is forked from CS++'s Plume, which is forked from Redbrick's [Atlas](https://github.com/redbrick/atlas) site.
 
@@ -7,9 +6,6 @@ It is forked from CS++'s Plume, which is forked from Redbrick's [Atlas](https://
 Flare is designed to be more-or-less static.
 
 The more commonly changing content (Such as Committe List, invite links, etc.) are available in `src/_data/site.yml`.
-
-## Adding Blogs
-For adding blog posts, go to 📚[tudublinesports/blog](https://github.com/tudublinesports/blog). When you add a new blog post, don't forget to update the Global Blog link in `src/_data/site.yml`!
 
 ## Adding / Modifying Images
 All images should be uploaded to `/src/site/assets/img` in the revelant section (Such as committee photos going to `/committee`). It is important that these are stored as WEBP for storage-size reasons.
