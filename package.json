@@ -33,7 +33,7 @@
   "devDependencies": {
     "@11ty/eleventy": "^2.0.1",
     "@11ty/eleventy-navigation": "^0.3.5",
-    "@tudesports/identityflip": "https://github.com/tudublinesports/",
+    "@tudesports/pixelshift": "https://github.com/tudublinesports/pixelshift",
     "@types/markdown-it": "^13.0.7",
     "@xpd/tailwind-3dtransforms": "^1.0.3",
     "autoprefixer": "^10.4.17",
